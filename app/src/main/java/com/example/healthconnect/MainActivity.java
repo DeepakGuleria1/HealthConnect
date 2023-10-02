@@ -11,7 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //SEGGSY TITS
-        //push
+        // hello my name is khan naam toh suna hee hoga
     }
 }
